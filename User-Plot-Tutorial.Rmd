@@ -1,4 +1,7 @@
 ---
+title: "User Plot Tutorial"
+author: "Bob Minnich"
+date: "Jan 2, 2016"
 output: html_document
 ---
 
